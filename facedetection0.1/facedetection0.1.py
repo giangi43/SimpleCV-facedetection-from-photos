@@ -5,7 +5,7 @@ from SimpleCV import *
 
 #setto le variabili generali come i contatori e i colori e l'estensione immagine preferia "chase sensitive" o come si scrive
 
-extension = "*.JPG"
+extension = "*.png"
 fmatches = 0
 ematches = 0
 green = (0, 255, 0)
