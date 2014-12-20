@@ -1,0 +1,1 @@
+il programma "facedetection0.1.py" è situato nella cartella sucessiva ed è impostato di default per analizzare le foto in formato ".JPG" (importante maiuscolo) all interno della cartella pictures.
